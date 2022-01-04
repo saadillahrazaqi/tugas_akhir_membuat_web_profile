@@ -1,0 +1,35 @@
+nav {
+  font-weight: bold;
+  border-bottom: 1px solid #d3d3d3;
+  background-color: #ffffff;
+}
+
+.navbar-nav a.active {
+  border-bottom: 3px solid black;
+}
+
+.homepage {
+  color: #fff;
+  padding-top: 5rem;
+}
+
+.card {
+  color: #000;
+}
+
+.image {
+  margin-top: 20px;
+  font-size: calc(1.6rem + 1.5vw);
+}
+
+.desc {
+  float: right;
+  font-size: 3rem;
+  font-weight: bold;
+  text-transform: uppercase;
+}
+
+.hello,
+.job {
+  font-size: 2rem;
+}
